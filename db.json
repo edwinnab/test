@@ -1,0 +1,22 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Kim Kardashian",
+      "email": "edwinnabikeri@gmail.com",
+      "course": "software engineering"
+    },
+    {
+      "id": 2,
+      "name": "Stacy Kim",
+      "email": "stacykim@gmail.com",
+      "course": "Cyber Security"
+    },
+    {
+      "id": 3,
+      "name": "Mary Jane",
+      "email": "testi@gmail.com",
+      "course": "software engineering"
+    }
+  ]
+}
